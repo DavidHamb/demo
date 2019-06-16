@@ -1,2 +1,2 @@
 # demo
-c'est une demo d'apprentissage
+c'est une demo d'apprentissage que j'améliore
